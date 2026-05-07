@@ -15,7 +15,7 @@ Paste your docs/FAQ URLs, ingest them into Memori, and chat with a voice-enabled
 Install dependencies (use any Python 3.11+ environment you like):
 
 ```bash
-cd memory_agents/customer_support_voice_agent
+cd memory_persistence/customer_support_voice_agent
 python -m pip install -r requirements.txt
 ```
 

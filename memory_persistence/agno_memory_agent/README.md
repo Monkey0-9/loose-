@@ -23,7 +23,7 @@ A demonstration of AI agents with persistent memory capabilities using the Agent
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd simple_ai_agents/memory_agent
+cd utility_modules/memory_agent
 ```
 
 2. Install dependencies:

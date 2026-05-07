@@ -18,7 +18,7 @@ A minimal Core for [Microsoft AutoGen](https://microsoft.github.io/autogen/) —
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/Core_ai_agents/autogen_Core
+cd looseai/core_modules/autogen_Core
 
 pip install -r requirements.txt
 # or: uv sync

@@ -48,7 +48,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 2. **Create the environment and install dependencies from `pyproject.toml`:**
 
 ```bash
-cd memory_agents/youtube_trend_agent
+cd memory_persistence/youtube_trend_agent
 uv sync
 ```
 

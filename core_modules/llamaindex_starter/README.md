@@ -23,7 +23,7 @@ A powerful AI agent template built with LlamaIndex that demonstrates how to crea
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd Core_ai_agents/llamaindex_Core
+cd core_modules/llamaindex_Core
 ```
 
 2. Install dependencies:

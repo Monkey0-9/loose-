@@ -47,7 +47,7 @@ newsletter_agent/
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd simple_ai_agents/newsletter_agent
+cd utility_modules/newsletter_agent
 ```
 
 2. Create a virtual environment (recommended):

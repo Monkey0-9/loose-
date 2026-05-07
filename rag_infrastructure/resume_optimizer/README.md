@@ -32,7 +32,7 @@ A powerful AI-powered resume optimization tool that helps job seekers enhance th
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd rag_apps/resume_optimizer
+cd rag_infrastructure/resume_optimizer
 ```
 
 2. Install the required dependencies:

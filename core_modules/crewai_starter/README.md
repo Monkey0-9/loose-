@@ -23,7 +23,7 @@ A powerful AI research crew built with CrewAI that leverages multiple specialize
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd Core_ai_agents/crewai_Core
+cd core_modules/crewai_starter
 ```
 
 2. Install dependencies:

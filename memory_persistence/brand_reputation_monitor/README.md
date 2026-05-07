@@ -29,7 +29,7 @@ A powerful AI-powered brand reputation monitoring tool that analyzes news covera
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-/brand-reputation-monitor.git
-cd memory_agents/brand_reputation_monitor
+cd memory_persistence/brand_reputation_monitor
 ```
 
 2. **Install the required dependencies:**

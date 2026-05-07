@@ -18,7 +18,7 @@ A minimal Core for [LangChain](https://python.langchain.com/) — the most widel
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/Core_ai_agents/langchain_Core
+cd looseai/core_modules/langchain_Core
 
 pip install -r requirements.txt
 # or: uv sync

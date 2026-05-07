@@ -33,7 +33,7 @@ A fast OCR-based document and image processing app powered by Loose AI Engine an
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd rag_apps/gemma3_ocr
+cd rag_infrastructure/gemma3_ocr
 ```
 
 2. Install dependencies using [`uv`](https://github.com/astral-sh/uv):

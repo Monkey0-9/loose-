@@ -10,12 +10,12 @@ This is a comprehensive collection of practical LLM-powered application projects
 
 Projects are organized into six main categories:
 
-1. **Core_ai_agents/** - Quick-start boilerplate Integrations for learning different AI frameworks (Agent Framework, OpenAI SDK, LlamaIndex, CrewAI, PydanticAI, LangChain, AWS Strands, Camel AI, DSPy, Loose Agent Toolkit)
-2. **simple_ai_agents/** - Straightforward, single-purpose agents (finance tracking, web automation, newsletter generation, calendar scheduling, etc.)
-3. **mcp_ai_agents/** - Projects using Model Context Protocol for semantic RAG, database interactions, and external tool integrations
-4. **memory_agents/** - Agents with persistent memory capabilities using frameworks like GibsonAI Memori
-5. **rag_apps/** - Retrieval-Augmented Generation Integrations with vector databases and document processing
-6. **advance_ai_agents/** - Complex multi-agent workflows and production-ready applications (research agents, job finders, meeting assistants, etc.)
+1. **core_modules/** - Quick-start boilerplate Integrations for learning different AI frameworks (Agent Framework, OpenAI SDK, LlamaIndex, CrewAI, PydanticAI, LangChain, AWS Strands, Camel AI, DSPy, Loose Agent Toolkit)
+2. **utility_modules/** - Straightforward, single-purpose agents (finance tracking, web automation, newsletter generation, calendar scheduling, etc.)
+3. **mcp_connectors/** - Projects using Model Context Protocol for semantic RAG, database interactions, and external tool integrations
+4. **memory_persistence/** - Agents with persistent memory capabilities using frameworks like GibsonAI Memori
+5. **rag_infrastructure/** - Retrieval-Augmented Generation Integrations with vector databases and document processing
+6. **advanced_engines/** - Complex multi-agent workflows and production-ready applications (research agents, job finders, meeting assistants, etc.)
 
 ## Common Development Commands
 
@@ -77,7 +77,7 @@ Common API keys used across projects:
 
 ### Multi-Stage Workflow Pattern
 
-Advanced agents (in `advance_ai_agents/`) typically use a multi-stage workflow pattern with specialized sub-agents:
+Advanced agents (in `advanced_engines/`) typically use a multi-stage workflow pattern with specialized sub-agents:
 
 ```python
 class ResearchWorkflow(Workflow):
@@ -86,7 +86,7 @@ class ResearchWorkflow(Workflow):
     writer: Agent    # Produces final output
 ```
 
-Integration: `advance_ai_agents/deep_researcher_agent/agents.py`
+Integration: `advanced_engines/deep_researcher_agent/agents.py`
 
 ### MCP Integration Pattern
 
@@ -103,25 +103,25 @@ async with MCPServerStdio(
     agent = Agent(mcp_servers=[server], ...)
 ```
 
-Integration: `mcp_ai_agents/github_mcp_agent/main.py`, `mcp_ai_agents/mcp_Core/main.py`
+Integration: `mcp_connectors/github_mcp_agent/main.py`, `mcp_connectors/mcp_Core/main.py`
 
 ### Framework-Specific Patterns
 
 **Agent Framework Framework** (most common):
 - Uses `Agent` class with tools, model, and instructions
 - Supports workflow orchestration via `Workflow` class
-- Integrations: `Core_ai_agents/Agent Framework_Core/`, `advance_ai_agents/deep_researcher_agent/`
+- Integrations: `core_modules/agno_starter/`, `advanced_engines/deep_researcher_agent/`
 
 **Loose AI SDK**:
 - Uses async `Runner.run()` with agents
-- Integrations: `Core_ai_agents/openai_agents_sdk/`, `mcp_ai_agents/mcp_Core/`
+- Integrations: `core_modules/openai_agents_sdk/`, `mcp_connectors/mcp_Core/`
 
 **AWS Strands**:
 - Covers basic agents, session management, MCP, multi-agent patterns, observability, and guardrails
 
 **LangChain/LangGraph**:
 - Graph-based workflows with state management
-- Integrations: `Core_ai_agents/langchain_langgraph_Core/`
+- Integrations: `core_modules/langchain_langgraph_Core/`
 
 ## Contributing Guidelines
 

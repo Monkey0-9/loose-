@@ -50,7 +50,7 @@ A comprehensive AI-powered hotel search and discovery application built with Str
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd mcp_ai_agents/hotel_finder_agent
+   cd mcp_connectors/hotel_finder_agent
    ```
 
 2. **Install dependencies**:

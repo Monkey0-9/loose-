@@ -51,7 +51,7 @@ An intelligent AI chat application that automatically routes queries between cos
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/simple_ai_agents/llm_router
+cd looseai/utility_modules/llm_router
 ```
 
 ### 2. Install Dependencies

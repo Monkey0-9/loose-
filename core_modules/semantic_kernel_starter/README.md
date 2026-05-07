@@ -18,7 +18,7 @@ A minimal Core for [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/Core_ai_agents/semantic_kernel_Core
+cd looseai/core_modules/semantic_kernel_Core
 
 pip install -r requirements.txt
 # or: uv sync

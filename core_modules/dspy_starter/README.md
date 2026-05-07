@@ -21,7 +21,7 @@ A powerful AI agent built with DSPy, leveraging advanced LLMs and tool integrati
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd Core_ai_agents/dspy_Core
+cd core_modules/dspy_Core
 ```
 
 2. Install dependencies:

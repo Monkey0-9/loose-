@@ -26,7 +26,7 @@ A powerful calendar management assistant built using Agent Framework framework t
 ```bash
   git clone https://github.com/Monkey0-9/loose-.git
 
-  cd looseai/simple_ai_agents/cal_scheduler_agent
+  cd looseai/utility_modules/cal_scheduler_agent
 ```
 
 2. Install the required dependencies:

@@ -57,7 +57,7 @@ The system uses a sequential CrewAI process:
 1.  **Clone the repository**:
     ```bash
     git clone https://github.com/Monkey0-9/loose-.git
-    cd rag_apps/agentic_rag_with_web_search
+    cd rag_infrastructure/agentic_rag_with_web_search
     ```
 
 2.  **Install dependencies**:

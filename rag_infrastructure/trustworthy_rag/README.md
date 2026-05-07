@@ -27,7 +27,7 @@ Every factual sentence in the answer is:
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/rag_apps/trustworthy_rag
+cd looseai/rag_infrastructure/trustworthy_rag
 ```
 
 2. Install dependencies:

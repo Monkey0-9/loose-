@@ -25,7 +25,7 @@ In this Integration, the agent is instructed to:
 
     ```bash
     git clone https://github.com/Monkey0-9/loose-
-    cd simple_ai_agents/browser_agent
+    cd utility_modules/browser_agent
     ```
 
 2.  **Install dependencies:**

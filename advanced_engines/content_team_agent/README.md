@@ -40,7 +40,7 @@ AI-powered content optimization workflow for Google AI Search ranking. This adva
 1. Navigate to the project directory:
 
 ```bash
-cd advance_ai_agents/content_team_agent
+cd advanced_engines/content_team_agent
 ```
 
 2. Install dependencies:

@@ -80,7 +80,7 @@ Smart GTM Agent/
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd advance_ai_agents/smart_gtm_agent
+cd advanced_engines/smart_gtm_agent
 ```
 
 

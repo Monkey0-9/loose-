@@ -147,7 +147,7 @@ For other OpenAI compatible endpoints you can point `OPENAI_BASE_URL` to the cor
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd looseai/rag_apps/wfgy_llm_debugger
+   cd looseai/rag_infrastructure/wfgy_llm_debugger
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
@@ -219,10 +219,10 @@ You can send multiple bugs in one session. After each diAgent Frameworksis, the 
 
 ## 📂 Project Structure
 
-This project lives under the `rag_apps` directory of the main repo.
+This project lives under the `rag_infrastructure` directory of the main repo.
 
 ```text
-rag_apps/
+rag_infrastructure/
 └── wfgy_llm_debugger/
     ├── main.py        # Single cell style debugger script (also works as CLI)
     └── README.md      # This file

@@ -125,7 +125,7 @@ Before running the main application, you need to authenticate once to generate t
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd looseai/simple_ai_agents/email_to_calendar_scheduler
+   cd looseai/utility_modules/email_to_calendar_scheduler
    ```
 
 2. **Create and activate a virtual environment:**

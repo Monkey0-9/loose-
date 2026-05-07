@@ -45,7 +45,7 @@ You can generate a Taskade API key from your [Taskade Settings](https://taskade.
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd looseai/mcp_ai_agents/taskade_mcp_agent
+   cd looseai/mcp_connectors/taskade_mcp_agent
    ```
 
 2. **Create and activate a virtual environment:**

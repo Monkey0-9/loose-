@@ -42,7 +42,7 @@ Inspired by [Karpathy's autoresearch](https://github.com/karpathy/autoresearch),
 ## Project Structure
 
 ```
-advance_ai_agents/Loose-autoresearch-autoresearch-mar30/
+advanced_engines/Loose-autoresearch-autoresearch-mar30/
 ├── Loose_agent.py    # Autonomous optimization loop (Loose AI Engine + git)
 ├── benchmark.py       # Fixed evaluation harness — DO NOT MODIFY
 ├── solve.py           # Analytics pipeline — the ONLY file the agent touches
@@ -67,7 +67,7 @@ From the [looseai](https://github.com/Monkey0-9/loose-) repo root (or your fork)
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/advance_ai_agents/Loose-autoresearch-autoresearch-mar30
+cd looseai/advanced_engines/Loose-autoresearch-autoresearch-mar30
 pip install -r requirements.txt
 ```
 

@@ -27,7 +27,7 @@ The agent is built using the `Agent Framework` framework. It uses the `meta-llam
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/your-username/looseai.git
-    cd looseai/mcp_ai_agents/database_mcp_agent
+    cd looseai/mcp_connectors/database_mcp_agent
     ```
 
 2.  **Set up a virtual environment and install dependencies:**

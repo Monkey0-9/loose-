@@ -63,7 +63,7 @@ CLIENT_PHONE_NO="your_whatsapp_number"
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd advance_ai_agents/price_monitoring_agent
+   cd advanced_engines/price_monitoring_agent
    ```
 
 2. **Install dependencies using uv:**

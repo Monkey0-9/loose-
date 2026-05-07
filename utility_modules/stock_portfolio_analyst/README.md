@@ -27,7 +27,7 @@ An AI-powered Stock Portfolio Analyst built with the [Agent Framework](https://w
 ## ⚡ Quick Start
 
 ```bash
-cd simple_ai_agents/stock_portfolio_analyst
+cd utility_modules/stock_portfolio_analyst
 
 # Install dependencies
 pip install -r requirements.txt

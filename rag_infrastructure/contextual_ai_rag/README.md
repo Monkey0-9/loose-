@@ -44,7 +44,7 @@ A Streamlit RAG application powered by Contextual AI's managed platform. Upload 
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/rag_apps/contextual_ai_rag
+cd looseai/rag_infrastructure/contextual_ai_rag
 ```
 
 Install dependencies:

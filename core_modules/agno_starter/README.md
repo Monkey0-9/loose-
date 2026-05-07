@@ -23,7 +23,7 @@ A powerful AI agent built with Agent Framework that analyzes and provides insigh
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd Core_ai_agents/Agent Framework_Core
+cd core_modules/agno_starter
 ```
 
 2. Install dependencies:

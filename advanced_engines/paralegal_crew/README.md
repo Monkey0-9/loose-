@@ -25,7 +25,7 @@ The three agents run **sequentially**, each consuming the previous task's output
 ## ⚡ Quick Start
 
 ```bash
-cd advance_ai_agents/paralegal_crew
+cd advanced_engines/paralegal_crew
 
 # Install dependencies
 pip install -r requirements.txt

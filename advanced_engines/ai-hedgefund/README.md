@@ -103,7 +103,7 @@ SERPER_API_KEY=your_serper_api_key_here
 ```bash
 # Clone the repository
 git clone https://github.com/Monkey0-9/looseai.git
-cd advance_ai_agents/ai-hedgefund
+cd advanced_engines/ai-hedgefund
 
 # Install dependencies
 npm install

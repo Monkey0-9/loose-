@@ -47,7 +47,7 @@ TAVILY_API_KEY="your_tavily_api_key"
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd looseai/advance_ai_agents/startup_idea_validator_agent
+   cd looseai/advanced_engines/startup_idea_validator_agent
    ```
 
 2. **Install dependencies using uv:**

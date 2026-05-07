@@ -40,7 +40,7 @@ pip install uv
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-/brand-reputation-monitor.git
-cd memory_agents/job_search_agent
+cd memory_persistence/job_search_agent
 ```
 
 ### 3. Install Dependencies

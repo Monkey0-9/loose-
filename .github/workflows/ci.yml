@@ -38,6 +38,6 @@ jobs:
       run: go run polyglot_core/go_health_checker/main.go
     
     - name: Set up Rust
-      uses: actions/setup-rust@v1
+      uses: actions-rust-lang/setup-rust-toolchain@v1
     - name: Verify Rust Module
       run: cd polyglot_core/rust_secure_compute && cargo check

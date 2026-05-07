@@ -28,7 +28,7 @@ Uses a 5-agent sequential pipeline:
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd advance_ai_agents/trend_analyzer_agent
+cd advanced_engines/trend_analyzer_agent
 ```
 
 2. Install dependencies:

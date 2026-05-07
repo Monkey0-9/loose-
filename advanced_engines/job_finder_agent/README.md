@@ -56,7 +56,7 @@ job_finder_agent/
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd advance_ai_agents/job_finder_agent
+cd advanced_engines/job_finder_agent
 ```
 
 2. Create a virtual environment:

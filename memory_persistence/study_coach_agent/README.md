@@ -58,7 +58,7 @@ An AI-powered **Study Coach** that uses **Memori v3** as long-term memory and **
 From the repo root:
 
 ```bash
-cd memory_agents/study_coach_agent
+cd memory_persistence/study_coach_agent
 uv sync
 ```
 

@@ -49,7 +49,7 @@ An intelligent Retrieval-Augmented Generation (RAG) system that combines the pow
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd rag_apps/agentic_rag
+   cd rag_infrastructure/agentic_rag
    ```
 
 2. **Install dependencies**:

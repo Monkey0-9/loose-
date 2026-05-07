@@ -45,7 +45,7 @@ SAYNA_URL="https://api.sayna.ai"
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd looseai/Core_ai_agents/sayna_Core
+   cd looseai/core_modules/sayna_Core
    ```
 
 2. **Create and activate a virtual environment:**

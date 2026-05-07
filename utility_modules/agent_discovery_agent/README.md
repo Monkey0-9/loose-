@@ -33,7 +33,7 @@ A discovery agent that helps you find and compare AI agents across multiple regi
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd simple_ai_agents/agent_discovery_agent
+cd utility_modules/agent_discovery_agent
 ```
 
 2. Install dependencies:

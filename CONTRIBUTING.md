@@ -44,12 +44,12 @@ To keep our review process clean and focused, **each new project must be submitt
 ### 3. Folder Structure and Naming
 
 - **Place your project in the appropriate category folder:**
-  - `Core_ai_agents/`: For simple, boilerplate-style agents.
-  - `simple_ai_agents/`: For straightforward, practical use-cases.
-  - `advance_ai_agents/`: For complex, multi-step workflows.
-  - `rag_apps/`: For Retrieval-Augmented Generation Integrations.
-  - `memory_agents/`: For agents with memory capabilities.
-  - `mcp_ai_agents/`: For projects using the Model Context Protocol.
+  - `core_modules/`: For simple, boilerplate-style agents.
+  - `utility_modules/`: For straightforward, practical use-cases.
+  - `advanced_engines/`: For complex, multi-step workflows.
+  - `rag_infrastructure/`: For Retrieval-Augmented Generation Integrations.
+  - `memory_persistence/`: For agents with memory capabilities.
+  - `mcp_connectors/`: For projects using the Model Context Protocol.
 - **Follow the naming convention for your project's folder:** The name should be descriptive and use snake_case. For Integration: `finance_agent`, `blog_writing_agent`.
 
 ### 4. Project README

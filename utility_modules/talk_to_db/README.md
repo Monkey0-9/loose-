@@ -29,7 +29,7 @@ A powerful AI-powered database query tool that translates natural language quest
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd simple_ai_agents/talk_to_db
+   cd utility_modules/talk_to_db
    ```
 
 2. Install the required dependencies:

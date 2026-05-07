@@ -30,7 +30,7 @@ A powerful AI-powered finance agent built with the Agent Framework framework tha
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/simple_ai_agents/finance_agent
+cd looseai/utility_modules/finance_agent
 ```
 
 ### 2. Install Dependencies

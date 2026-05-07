@@ -56,7 +56,7 @@ Follow these steps to set up the **Deep Researcher Agent** on your machine:
 3. **Navigate to the Deep Researcher Agent directory:**
 
    ```bash
-   cd looseai/advance_ai_agents/deep_researcher_agent
+   cd looseai/advanced_engines/deep_researcher_agent
    ```
 
 4. **Install all dependencies:**
@@ -118,7 +118,7 @@ Add the following configuration to your .cursor/mcp.json or Claude/claude_deskto
       "command": "python",
       "args": [
         "--directory",
-        "/Your/Path/to/directory/looseai/advance_ai_agents/deep_researcher_agent",
+        "/Your/Path/to/directory/looseai/advanced_engines/deep_researcher_agent",
         "run",
         "server.py"
       ],

@@ -62,7 +62,7 @@
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd advance_ai_agents/candidate_analyser
+cd advanced_engines/candidate_analyser
 ```
 
 ### 2. Install Requirements

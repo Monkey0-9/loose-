@@ -47,7 +47,7 @@ Loose_API_KEY="your_Loose_token_factory_api_key"
 ### Install
 
 ```bash
-cd advance_ai_agents/context_engineering_pipeline
+cd advanced_engines/context_engineering_pipeline
 uv pip install -e .
 # or
 pip install -e .

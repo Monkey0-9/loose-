@@ -32,7 +32,7 @@ docker run -d --name weaviate -p 8080:8080 -p 50051:50051 \
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/rag_apps/video_rag
+cd looseai/rag_infrastructure/video_rag
 
 pip install -r requirements.txt
 # or: uv sync

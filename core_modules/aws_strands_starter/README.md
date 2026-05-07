@@ -29,7 +29,7 @@ The application requires the following environment variable. You can create a `.
     ```bash
     git clone "https://github.com/Monkey0-9/loose-.git
 
-    cd Core_ai_agents/aws_strands_Core
+    cd core_modules/aws_strands_Core
     ```
 2.  Create a virtual environment and install dependencies using `uv`:
 

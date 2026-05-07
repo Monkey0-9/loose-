@@ -29,7 +29,7 @@ docker run -d --name letta -p 8283:8283 \
 **2. Install the client:**
 
 ```bash
-cd looseai/Core_ai_agents/letta_Core
+cd looseai/core_modules/letta_Core
 pip install -r requirements.txt
 # or: uv sync
 ```

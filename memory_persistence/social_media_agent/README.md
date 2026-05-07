@@ -30,7 +30,7 @@ A powerful AI-powered social media automation tool that analyzes your Twitter wr
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd simple_ai_agents/social_media_agent
+cd utility_modules/social_media_agent
 ```
 
 2. Install the required dependencies using uv:

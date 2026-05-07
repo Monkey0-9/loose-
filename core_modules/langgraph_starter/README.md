@@ -18,7 +18,7 @@ A minimal Core for [LangGraph](https://langchain-ai.github.io/langgraph/) — a 
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/Core_ai_agents/langgraph_Core
+cd looseai/core_modules/langgraph_Core
 
 pip install -r requirements.txt
 # or: uv sync

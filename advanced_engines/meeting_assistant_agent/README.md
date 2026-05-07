@@ -28,7 +28,7 @@ meeting_assistant_agent
 
    ```bash
    git clone https://github.com/Monkey0-9/loose-.git
-   cd advance_ai_agents/meeting_assistant_agent
+   cd advanced_engines/meeting_assistant_agent
    ```
 
 2. Install the required dependencies:

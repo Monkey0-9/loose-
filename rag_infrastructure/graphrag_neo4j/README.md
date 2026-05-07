@@ -55,7 +55,7 @@ NEO4J_PASSWORD="your_password"
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/rag_apps/graphrag_neo4j
+cd looseai/rag_infrastructure/graphrag_neo4j
 ```
 
 **Recommended – using [uv](https://github.com/astral-sh/uv):**

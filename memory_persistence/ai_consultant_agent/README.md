@@ -42,7 +42,7 @@ pip install uv
 From the root of the main repo:
 
 ```bash
-cd memory_agents/ai_consultant_agent
+cd memory_persistence/ai_consultant_agent
 ```
 
 ### 3. Install Dependencies with `uv`

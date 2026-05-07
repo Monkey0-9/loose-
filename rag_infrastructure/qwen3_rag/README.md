@@ -26,7 +26,7 @@ A powerful RAG (Retrieval-Augmented Generation) chat application built with Stre
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd rag_apps/qwen3_rag
+cd rag_infrastructure/qwen3_rag
 ```
 
 2. Install the required packages:

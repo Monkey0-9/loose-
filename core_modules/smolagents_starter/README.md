@@ -18,7 +18,7 @@ A minimal Core for [HuggingFace smolagents](https://github.com/huggingface/smola
 
 ```bash
 git clone https://github.com/Monkey0-9/loose-.git
-cd looseai/Core_ai_agents/smolagents_Core
+cd looseai/core_modules/smolagents_Core
 
 # pip
 pip install -r requirements.txt

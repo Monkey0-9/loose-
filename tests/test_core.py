@@ -19,7 +19,7 @@ class TestLooseCore(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         """Prepare environment for testing."""
-        loose_mock.setup_mocks()
+        loose_mock.initialize_sandbox()
         # Create bin if missing
         if not os.path.exists("bin"):
             os.makedirs("bin")
@@ -29,26 +29,26 @@ class TestLooseCore(unittest.TestCase):
         self.assertEqual(os.environ.get("USE_MOCK"), "1")
         self.assertEqual(
             os.environ.get("LOOSE_API_KEY"), 
-            "mock-loose-key-comprehensive-2026"
+            "mock-loose-key-2026"
         )
 
     def test_02_agent_discovery(self):
         """Verify that the CLI can discover agents in the repository."""
-        agents = loose_cli.get_agents()
+        agents = loose_cli.get_modules()
         self.assertGreater(len(agents), 0)
         # Verify a few known agents
         agent_names = [a['name'] for a in agents]
-        self.assertIn('agno_Core', agent_names)
-        self.assertIn('crewai_Core', agent_names)
+        self.assertIn('agno_starter', agent_names)
+        self.assertIn('crewai_starter', agent_names)
 
     def test_03_health_auditor_structural(self):
         """Verify the health verification logic."""
         import verify_health
         mock_agent = {
-            "name": "agno_Core",
-            "path": ROOT / "Core_ai_agents" / "agno_Core"
+            "name": "agno_starter",
+            "path": ROOT / "core_modules" / "agno_starter"
         }
-        status = verify_health.verify_agent(mock_agent)
+        status = verify_health.verify_module(mock_agent)
         self.assertEqual(status, "HEALTHY")
 
     def test_04_polyglot_execution_logic(self):
@@ -65,9 +65,11 @@ class TestLooseCore(unittest.TestCase):
             pass
         
         # Verify it handles unknown modules
-        with self.assertRaises(Exception) if sys.version_info < (3,0) else self.assertIsNone(None):
+        try:
              # We just verify it doesn't crash on known paths
              pass
+        except Exception:
+             self.fail("Polyglot logic raised an unexpected exception")
 
     def test_05_build_automation(self):
         """Check for existence of Makefile and build scripts."""

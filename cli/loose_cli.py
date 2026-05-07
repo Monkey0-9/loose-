@@ -143,7 +143,7 @@ def run_module(args):
         if entry_point.endswith(".py") and cmd[0] != "streamlit":
             m_set = (
                 f"import sys; sys.path.append(r'{r_abs}'); "
-                f"import loose_mock; loose_mock.setup_mocks(); "
+                f"import loose_mock; loose_mock.initialize_sandbox(); "
             )
             cmd = [sys.executable, "-c", f"{m_set} import {entry_point[:-3]}"]
 

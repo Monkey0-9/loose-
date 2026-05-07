@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T20:11:55.904561",
+    "timestamp": "2026-05-07T18:00:20.935430",
     "summary": {
         "total_modules": 99,
         "healthy_modules": 99,
@@ -32,9 +32,9 @@
     },
     "details": [
         {
-            "name": "Agent Framework_starter",
+            "name": "agno_starter",
             "category": "core_modules",
-            "path": "core_modules\\Agent Framework_starter",
+            "path": "core_modules\\agno_starter",
             "status": "HEALTHY"
         },
         {
@@ -152,15 +152,15 @@
             "status": "HEALTHY"
         },
         {
-            "name": "Agent Framework_ai_examples",
+            "name": "agno_ai_examples",
             "category": "utility_modules",
-            "path": "utility_modules\\Agent Framework_ai_examples",
+            "path": "utility_modules\\agno_ai_examples",
             "status": "HEALTHY"
         },
         {
-            "name": "Agent Framework_ui_agent",
+            "name": "agno_ui_agent",
             "category": "utility_modules",
-            "path": "utility_modules\\Agent Framework_ui_agent",
+            "path": "utility_modules\\agno_ui_agent",
             "status": "HEALTHY"
         },
         {
@@ -314,9 +314,9 @@
             "status": "HEALTHY"
         },
         {
-            "name": "Agent Framework_memory_agent",
+            "name": "agno_memory_agent",
             "category": "memory_persistence",
-            "path": "memory_persistence\\Agent Framework_memory_agent",
+            "path": "memory_persistence\\agno_memory_agent",
             "status": "HEALTHY"
         },
         {
@@ -524,9 +524,9 @@
             "status": "HEALTHY"
         },
         {
-            "name": "conference_Agent Frameworksitc_cfp_generator",
+            "name": "conference_agnositc_cfp_generator",
             "category": "advanced_engines",
-            "path": "advanced_engines\\conference_Agent Frameworksitc_cfp_generator",
+            "path": "advanced_engines\\conference_agnositc_cfp_generator",
             "status": "HEALTHY"
         },
         {

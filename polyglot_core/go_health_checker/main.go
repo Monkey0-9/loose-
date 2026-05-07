@@ -23,8 +23,8 @@ type HealthReport struct {
 }
 
 var CATEGORIES = []string{
-	"Core_ai_agents", "simple_ai_agents", "mcp_ai_agents",
-	"memory_agents", "rag_apps", "advance_ai_agents",
+	"core_modules", "utility_modules", "mcp_connectors",
+	"memory_persistence", "rag_infrastructure", "advanced_engines",
 }
 
 func checkAgent(cat, name string, wg *sync.WaitGroup, results chan<- AgentStatus) {

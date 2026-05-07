@@ -18,8 +18,8 @@ def main():
         clear_screen()
         print_header()
         print("\n   [1] Launch Premium Portal (Streamlit)")
-        print("   [2] Run Tech News Analyst (agno Core)")
-        print("   [3] Run Finance Agent (Multi-Agent Tool)")
+        print("   [2] Run Tech News Analyst (Agno Starter)")
+        print("   [3] Run Finance Agent (Multi-Agent Module)")
         print("   [4] Run Full System Audit")
         print("   [5] Exit")
         
@@ -33,12 +33,12 @@ def main():
         elif choice == "2":
             print("\n   Launching Tech Analyst...")
             # We use loose_mock to ensure it runs without keys
-            cmd = f"import loose_mock; loose_mock.setup_mocks(); from Core_ai_agents.agno_Core.main import main; main()"
+            cmd = f"import loose_mock; loose_mock.initialize_sandbox(); from core_modules.agno_starter.main import main; main()"
             subprocess.run([sys.executable, "-c", cmd])
         elif choice == "3":
             print("\n   Launching Finance Agent...")
             # Finance agent has its own UI
-            subprocess.Popen([sys.executable, "-m", "streamlit", "run", "simple_ai_agents/finance_agent/main.py", "--server.port", "8502"])
+            subprocess.Popen([sys.executable, "-m", "streamlit", "run", "utility_modules/finance_agent/main.py", "--server.port", "8502"])
             print("   📍 Access at: http://localhost:8502")
             time.sleep(2)
         elif choice == "4":

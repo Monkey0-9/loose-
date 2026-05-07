@@ -1,6 +1,502 @@
 {
-  "timestamp": "2026-05-07T18:00:54+05:30",
-  "total_agents": 0,
+  "timestamp": "2026-05-07T18:03:17+05:30",
+  "total_agents": 99,
   "categories": {},
-  "agents": []
+  "agents": [
+    {
+      "name": "autogen_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agno_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "langchain_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "kaos_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "dspy_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "cagent_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "crewai_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "aws_strands_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agno_ui_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "langgraph_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "letta_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "camel_ai_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "llamaindex_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "google_adk_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "semantic_kernel_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "sayna_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "database_mcp_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "smolagents_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "pydantic_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "browser_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agent_discovery_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agno_memory_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "cal_scheduling_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agno_ai_examples",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "mastra_starter",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "email_to_calendar_scheduler",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "doc_mcp",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "langchain_langgraph_mcp_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "finance_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "mcp_starter",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "docs_qna_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "human_in_the_loop_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "scalekit-exa-mcp-security",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "e2b_docker_mcp_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "llm_router",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "taskade_mcp_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "github_mcp_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "telemetry-mcp-okahu",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "hotel_finder_agent",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "chat_with_code",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "openai_agents_sdk",
+      "category": "core_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "job_search_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "product_launch_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "brand_reputation_monitor",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "social_media_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "blog_writing_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "customer_support_voice_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "study_coach_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "gossip_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "mastra_ai_weather_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "ai_consultant_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "youtube_trend_agent",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agentic_rag",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "contextual_ai_rag",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agentic_rag_with_web_search",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "advanced_rag_with_reranking",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "arxiv_researcher_agent_with_memori",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "newsletter_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "stock_portfolio_analyst",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "conference_agnositc_cfp_generator",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "gemma_ocr",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "aws_strands_agent_with_memori",
+      "category": "memory_persistence",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "graphrag_neo4j",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "nebius_chat",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "conference_talk_abstract_generator",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "trustworthy_rag",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "video_rag",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "talk_to_db",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "couchbase_mcp_server",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "content_team_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "llamaIndex_starter",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "wfgy_llm_debugger",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "candidate_analyser",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "reasoning_agent",
+      "category": "utility_modules",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "context_engineering_pipeline",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "custom_mcp_server",
+      "category": "mcp_connectors",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "nvidia_ocr",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agentfield_finance_research_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "car_finder_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "resume_optimizer",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "simple_rag",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "qwen3_rag",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "deep_researcher_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "ai-hedgefund",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "coding_harness_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "nebius-autoresearch-autoresearch-mar30",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "pdf_chat",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "pdf_rag_analyser",
+      "category": "rag_infrastructure",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "paralegal_crew",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "due_diligence_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "temporal_agents",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "job_finder_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "loose_discovery_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "meeting_assistant_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "smart_gtm_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "trend_analyzer_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "price_monitoring_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "startup_idea_validator_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "finance_service_agent",
+      "category": "advanced_engines",
+      "status": "HEALTHY"
+    }
+  ]
 }

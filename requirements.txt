@@ -2,29 +2,29 @@
 # Generated for 2026-05-06 - Python 3.10+
 
 # Core Platform
-streamlit==1.32.0
-rich==13.7.0
-pydantic==2.6.0
-python-dotenv==1.0.1
+streamlit==1.57.0
+rich==15.0.0
+pydantic==2.13.4
+python-dotenv==1.2.2
 
 # AI Frameworks
-agno==0.1.52
-openai==1.12.0
-anthropic==0.17.0
-google-generativeai==0.3.2
-langchain==0.1.9
-langgraph==0.0.26
-llama-index==0.10.12
-crewai==0.11.1
-autogen-agentchat==0.2.0
+agno==2.6.5
+openai==2.35.1
+anthropic==0.100.0
+google-generativeai==0.8.6
+langchain==1.2.17
+langgraph==1.1.10
+llama-index==0.14.21
+crewai==0.11.2
+autogen-agentchat==0.7.5
 
 # Tools & Utilities
-yfinance==0.2.36
-duckduckgo-search==4.4.3
-qdrant-client==1.7.3
-numpy==1.26.4
-pandas==2.2.0
+yfinance==1.3.0
+duckduckgo-search==8.1.1
+qdrant-client==1.17.1
+numpy==2.4.4
+pandas==3.0.2
 
 # Testing
-pytest==8.0.2
+pytest==9.0.3
 unittest-mock==1.1.4

@@ -30,7 +30,7 @@ def run_test():
     bad = 0
     for p in Path("C:/loose").rglob("*.md"):
         content = p.read_text(encoding="utf-8", errors="ignore")
-        if "Loose AI Project" in content or "Loose AI" in content:
+        if "Dipa" in content or "Loose AI" in content:
             bad += 1
     if bad == 0:
         print("PASS: No original branding found in READMEs.")

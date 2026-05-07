@@ -28,7 +28,7 @@ A powerful AI-powered brand reputation monitoring tool that analyzes news covera
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/looseai-project/looseai/brand-reputation-monitor.git
+git clone https://github.com/Monkey0-9/loose-/brand-reputation-monitor.git
 cd memory_agents/brand_reputation_monitor
 ```
 

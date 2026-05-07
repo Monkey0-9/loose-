@@ -56,7 +56,7 @@ The system uses a sequential CrewAI process:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/looseai-project/looseai.git
+    git clone https://github.com/Monkey0-9/loose-.git
     cd rag_apps/agentic_rag_with_web_search
     ```
 
@@ -118,7 +118,7 @@ The core logic is defined in `crews.py` and `qdrant_tool.py`.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/looseai-project/looseai/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Monkey0-9/loose-/issues).
 
 ## 📜 License
 

@@ -17,7 +17,7 @@ A minimal Core for [Mastra](https://mastra.ai) — a TypeScript-first framework 
 ## Installation
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd looseai/Core_ai_agents/mastra_Core
 
 npm install

@@ -44,7 +44,7 @@ TAGS: due-diligence, multi-agent, web-scraping, tinyfish, parallel-agents, resea
 1. Clone and navigate to the folder:
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd looseai/advance_ai_agents/due_diligence_agent
    ```
 

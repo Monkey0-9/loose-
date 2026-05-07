@@ -100,7 +100,7 @@ Once a bug is mapped to a number, you can apply the fix and expect it not to qui
    - short reasoning
    - which WFGY Problem Map page to read first and what patch to try.
 
-You can treat this as a **diAgent Frameworkstic layer in front of any LLM app**, without changing infra.
+You can treat this as a **diAgnostic layer in front of any LLM app**, without changing infra.
 
 ---
 
@@ -146,7 +146,7 @@ For other OpenAI compatible endpoints you can point `OPENAI_BASE_URL` to the cor
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd looseai/rag_apps/wfgy_llm_debugger
    ```
 
@@ -237,7 +237,7 @@ An `assets/` folder can be added later for GIFs or screenshots if desired.
 Contributions and feedback are welcome.
 If you would like to tweak the prompt, add more Integrations, or extend the debugger to other providers, feel free to open an issue or submit a PR.
 
-Please see the main repository’s [CONTRIBUTING.md](https://github.com/looseai-project/looseai/blob/main/CONTRIBUTING.md) for detailed guidelines.
+Please see the main repository’s [CONTRIBUTING.md](https://github.com/Monkey0-9/loose-/blob/main/CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
@@ -245,7 +245,7 @@ Please see the main repository’s [CONTRIBUTING.md](https://github.com/looseai-
 
 This project follows the license of the parent repository and the upstream WFGY project:
 
-* looseai: [MIT License](https://github.com/looseai-project/looseai/blob/main/LICENSE)
+* looseai: [MIT License](https://github.com/Monkey0-9/loose-/blob/main/LICENSE)
 * WFGY / Problem Map content: MIT licensed in the original repo
 
 ---

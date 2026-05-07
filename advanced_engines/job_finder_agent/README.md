@@ -55,7 +55,7 @@ job_finder_agent/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd advance_ai_agents/job_finder_agent
 ```
 

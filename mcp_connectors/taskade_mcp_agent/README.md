@@ -44,7 +44,7 @@ You can generate a Taskade API key from your [Taskade Settings](https://taskade.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd looseai/mcp_ai_agents/taskade_mcp_agent
    ```
 

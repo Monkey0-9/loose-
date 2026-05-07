@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a comprehensive collection of practical LLM-powered application Integrations, Integrations, and recipes organized by complexity and use case. The repository contains 70+ Integration projects demonstrating various AI frameworks and patterns.
+This is a comprehensive collection of practical LLM-powered application projects, examples, and recipes organized by complexity and use case. The repository contains 70+ Integration projects demonstrating various AI frameworks and patterns.
 
 ## Project Categories
 

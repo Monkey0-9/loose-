@@ -27,7 +27,7 @@ A powerful AI-powered blog writing tool that analyzes your writing style and gen
 Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd simple_ai_agents/blog_writing_agent
 ```
 

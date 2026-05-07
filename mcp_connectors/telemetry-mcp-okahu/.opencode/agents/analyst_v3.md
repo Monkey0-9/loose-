@@ -64,7 +64,7 @@ pip install monocle_apptrace monocle_test_tools openai fastapi uvicorn python-do
 7. **Strict Trace-Driven Debugging**:
    - If a test case fails, invoke the hosted Okahu MCP `/okahu:get_latest_traces:mcp` and pass arg `workflow_name="text_to_sql_analyst_v3"` to analyze the latest production-grade traces.
    - Strictly use the trace spans to identify root causes like schema mismatch or incorrect inference.
-   - **DO NOT** create debug files, log files, or diAgent Frameworkstic scripts. All debugging MUST be done via Okahu MCP traces.
+   - **DO NOT** create debug files, log files, or diAgnostic scripts. All debugging MUST be done via Okahu MCP traces.
    - **No Trace, No Fix**: If the Okahu MCP returns no traces or fails, you MUST STOP immediately and report that you cannot fix the error due to missing telemetry. DO NOT attempt to fix the code by guessing.
 
 ### STRICT FILE CREATION RULES:

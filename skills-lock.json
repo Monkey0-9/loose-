@@ -22,32 +22,32 @@
       "computedHash": "2e6d569180c2e3c52d8d7089b64e952ecc7a200838b14523a8467289da6c4766"
     },
     "Loose-batch-synthetic": {
-      "source": "looseai-project/Loose-skills",
+      "source": "Monkey0-9/Loose-skills",
       "sourceType": "github",
       "computedHash": "9abf0e4d4ec33fdb95034b25cc72ccdf09c4fa27e53cd5b8b16af908184a75b9"
     },
     "Loose-datalab-pipeline": {
-      "source": "looseai-project/Loose-skills",
+      "source": "Monkey0-9/Loose-skills",
       "sourceType": "github",
       "computedHash": "fd3f6d88d9901a2620692b7441e928d266a3989bb15f70305b553abc61ca10ca"
     },
     "Loose-dedicated-endpoint": {
-      "source": "looseai-project/Loose-skills",
+      "source": "Monkey0-9/Loose-skills",
       "sourceType": "github",
       "computedHash": "c05bad0bde3b1ced947e47ad9dd821e5cb2f421ecb40d40c85548d4c2f56a5d7"
     },
     "Loose-deploy-lora": {
-      "source": "looseai-project/Loose-skills",
+      "source": "Monkey0-9/Loose-skills",
       "sourceType": "github",
       "computedHash": "4621e6b005fe582af596fe52e82e16a7661bf093d7e1fa36dff6de967706eb7f"
     },
     "Loose-finetune": {
-      "source": "looseai-project/Loose-skills",
+      "source": "Monkey0-9/Loose-skills",
       "sourceType": "github",
       "computedHash": "04f0c3be6e68ab775e4d83b14c89d53d41afdcfa854a4229fb9f7d553f54fa9c"
     },
     "Loose-observability": {
-      "source": "looseai-project/Loose-skills",
+      "source": "Monkey0-9/Loose-skills",
       "sourceType": "github",
       "computedHash": "3cfcecb9064569468ccf255b08859e2094749720b0677c3623a9d6d0baf58390"
     }

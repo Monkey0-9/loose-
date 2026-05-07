@@ -238,7 +238,7 @@ Content Audit → Section Optimization → Improved Article
 
 ## Contributing
 
-This project is part of the [looseai](https://github.com/looseai-project/looseai) collection. Contributions are welcome!
+This project is part of the [looseai](https://github.com/Monkey0-9/loose-) collection. Contributions are welcome!
 
 ## License
 

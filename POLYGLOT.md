@@ -1,7 +1,7 @@
 # Loose AI - Multi-Runtime Polyglot Architecture
 
 **Version:** 2.0.0-PROD
-**Philosophy:** Language-Agent Frameworkstic Intelligence Orchestration
+**Philosophy:** Language-Agnostic Intelligence Orchestration
 
 Loose AI is engineered as a polyglot ecosystem that leverages the specific strengths of eight distinct runtimes. This architecture ensures that the platform can scale from rapid prototyping to enterprise execution.
 

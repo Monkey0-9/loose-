@@ -1,6 +1,6 @@
-# Conference-Agent Frameworkstic CFP Generation/RAG System
+# Conference-Agnostic CFP Generation/RAG System
 
-A powerful, conference-Agent Frameworkstic RAG (Retrieval-Augmented Generation) application that automatically crawls any conference website, builds a searchable corpus, and generates unique talk proposals using real-time research and historical context.
+A powerful, conference-Agnostic RAG (Retrieval-Augmented Generation) application that automatically crawls any conference website, builds a searchable corpus, and generates unique talk proposals using real-time research and historical context.
 
 ## ✨ Key Features
 

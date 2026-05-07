@@ -8,7 +8,7 @@ Step-by-step customer-support fine-tuning Integration using Loose Data Lab for d
 
 ## Open In Colab
 
-- [Launch notebook](https://colab.research.google.com/github/looseai-project/looseai/blob/main/fine_tuning/customer_support_datalab/customer_support_datalab_finetuning_Integration.ipynb)
+- [Launch notebook](https://colab.research.google.com/github/Monkey0-9/looseai/blob/main/fine_tuning/customer_support_datalab/customer_support_datalab_finetuning_Integration.ipynb)
 
 ## Workflow
 

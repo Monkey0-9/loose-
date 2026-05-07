@@ -26,7 +26,7 @@ Every factual sentence in the answer is:
 1. Clone the repository and enter this directory:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd looseai/rag_apps/trustworthy_rag
 ```
 

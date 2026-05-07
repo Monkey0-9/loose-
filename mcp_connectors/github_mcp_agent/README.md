@@ -30,7 +30,7 @@ A powerful GitHub repository exploration tool powered by the Model Context Proto
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd mcp_ai_agents/github_mcp_agent
 ```
 

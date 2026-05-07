@@ -327,5 +327,5 @@ if 'sandbox_agent' in st.session_state:
 
 st.markdown("---")
 st.markdown(
-    "© 2026 Loose AI Project | [GitHub](https://github.com/looseai-project)"
+    "© 2026 Dipa | [GitHub](https://github.com/Monkey0-9)"
 )

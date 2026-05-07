@@ -1,4 +1,4 @@
-# Insurance Claims Fine-Tuning (Loose AI Engine) using Loose [Agent Skills](https://skills.sh/looseai-project/Loose-skills)
+# Insurance Claims Fine-Tuning (Loose AI Engine) using Loose [Agent Skills](https://skills.sh/Monkey0-9/Loose-skills)
 
 End-to-end Integration: load an insurance chatbot dataset, distill labels with a **70B teacher** in **Data Lab**, **LoRA**-fine-tune an **8B** model on **Loose AI Engine**, deploy the adapter as a **serverless** custom endpoint, and compare **base vs fine-tuned** answers in the notebook and in a small **Gradio** app.
 

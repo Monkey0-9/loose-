@@ -50,7 +50,7 @@ Follow these steps to set up the **Deep Researcher Agent** on your machine:
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    ```
 
 3. **Navigate to the Deep Researcher Agent directory:**

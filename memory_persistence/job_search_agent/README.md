@@ -39,7 +39,7 @@ pip install uv
 ### 2. Clone and Navigate
 
 ```bash
-git clone https://github.com/looseai-project/looseai/brand-reputation-monitor.git
+git clone https://github.com/Monkey0-9/loose-/brand-reputation-monitor.git
 cd memory_agents/job_search_agent
 ```
 

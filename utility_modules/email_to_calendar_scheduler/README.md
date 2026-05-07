@@ -124,7 +124,7 @@ Before running the main application, you need to authenticate once to generate t
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd looseai/simple_ai_agents/email_to_calendar_scheduler
    ```
 
@@ -194,11 +194,11 @@ You can customize the assistant's behavior by modifying these variables in `main
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. See the [CONTRIBUTING.md](https://github.com/looseai-project/looseai/blob/main/CONTRIBUTING.md) for more details.
+Contributions are welcome! Please feel free to submit a Pull Request. See the [CONTRIBUTING.md](https://github.com/Monkey0-9/loose-/blob/main/CONTRIBUTING.md) for more details.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/looseai-project/looseai/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Monkey0-9/loose-/blob/main/LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 

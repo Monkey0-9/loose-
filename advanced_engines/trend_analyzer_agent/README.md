@@ -27,7 +27,7 @@ Uses a 5-agent sequential pipeline:
 1. Clone the Repo
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd advance_ai_agents/trend_analyzer_agent
 ```
 

@@ -22,7 +22,7 @@ A powerful AI agent built with PydanticAI that provides real-time weather inform
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd Core_ai_agents/pydantic_Core
 ```
 

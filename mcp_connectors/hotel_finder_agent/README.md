@@ -49,7 +49,7 @@ A comprehensive AI-powered hotel search and discovery application built with Str
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd mcp_ai_agents/hotel_finder_agent
    ```
 

@@ -54,7 +54,7 @@ NEO4J_PASSWORD="your_password"
 ### Installation
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd looseai/rag_apps/graphrag_neo4j
 ```
 
@@ -113,11 +113,11 @@ graphrag_neo4j/
 
 ## 🤝 Contributing
 
-See the root [CONTRIBUTING.md](https://github.com/looseai-project/looseai/blob/main/CONTRIBUTING.md).
+See the root [CONTRIBUTING.md](https://github.com/Monkey0-9/loose-/blob/main/CONTRIBUTING.md).
 
 ## 📄 License
 
-MIT – see [LICENSE](https://github.com/looseai-project/looseai/blob/main/LICENSE).
+MIT – see [LICENSE](https://github.com/Monkey0-9/loose-/blob/main/LICENSE).
 
 ## 🙏 Acknowledgments
 

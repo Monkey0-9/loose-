@@ -48,7 +48,7 @@ An intelligent Retrieval-Augmented Generation (RAG) system that combines the pow
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd rag_apps/agentic_rag
    ```
 

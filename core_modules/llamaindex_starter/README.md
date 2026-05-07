@@ -22,7 +22,7 @@ A powerful AI agent template built with LlamaIndex that demonstrates how to crea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd Core_ai_agents/llamaindex_Core
 ```
 

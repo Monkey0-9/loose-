@@ -82,7 +82,7 @@ OLOSTEP_API_KEY=<your-olostep-api-key>
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd looseai/voice_agents/livekit_web_search_agent
    ```
 
@@ -165,11 +165,11 @@ livekit_web_search_agent/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. See [CONTRIBUTING.md](https://github.com/looseai-project/looseai/blob/main/CONTRIBUTING.md) for details.
+Contributions are welcome! Please feel free to submit a Pull Request. See [CONTRIBUTING.md](https://github.com/Monkey0-9/loose-/blob/main/CONTRIBUTING.md) for details.
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](https://github.com/looseai-project/looseai/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/Monkey0-9/loose-/blob/main/LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 

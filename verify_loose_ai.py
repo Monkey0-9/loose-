@@ -5,7 +5,7 @@ from pathlib import Path
 def test_loose_ai():
     print("--- Auditing Loose AI Branding ---")
     base_dir = Path("C:/loose")
-    bad_patterns = ["Loose AI Team", "Loose AI", "loose-ai", "loose-llm"]
+    bad_patterns = ["Dipa & Antigravity", "Loose AI", "loose-ai", "loose-llm"]
     
     hits = 0
     for file in base_dir.rglob("*"):

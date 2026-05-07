@@ -25,7 +25,7 @@ A powerful RAG (Retrieval-Augmented Generation) chat application built with Stre
 1. Clone the repository
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd rag_apps/qwen3_rag
 ```
 

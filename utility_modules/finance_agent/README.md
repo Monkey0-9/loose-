@@ -29,7 +29,7 @@ A powerful AI-powered finance agent built with the Agent Framework framework tha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd looseai/simple_ai_agents/finance_agent
 ```
 
@@ -151,7 +151,7 @@ We welcome contributions! To contribute to this project:
 
 ## 📄 License
 
-This project is part of the [Loose AI](https://github.com/looseai-project/looseai) collection and is licensed under the MIT License.
+This project is part of the [Loose AI](https://github.com/Monkey0-9/loose-) collection and is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 

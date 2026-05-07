@@ -46,7 +46,7 @@ TAVILY_API_KEY="your_tavily_api_key"
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/looseai-project/looseai.git
+   git clone https://github.com/Monkey0-9/loose-.git
    cd looseai/advance_ai_agents/startup_idea_validator_agent
    ```
 

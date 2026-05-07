@@ -32,7 +32,7 @@ A fast OCR-based document and image processing app powered by Loose AI Engine an
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd rag_apps/gemma3_ocr
 ```
 

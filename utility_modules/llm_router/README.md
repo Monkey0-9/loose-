@@ -50,7 +50,7 @@ An intelligent AI chat application that automatically routes queries between cos
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd looseai/simple_ai_agents/llm_router
 ```
 
@@ -263,7 +263,7 @@ We welcome contributions! To contribute:
 
 ## 📄 License
 
-This project is part of the [Loose AI](https://github.com/looseai-project/looseai) collection and is licensed under the MIT License.
+This project is part of the [Loose AI](https://github.com/Monkey0-9/loose-) collection and is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 

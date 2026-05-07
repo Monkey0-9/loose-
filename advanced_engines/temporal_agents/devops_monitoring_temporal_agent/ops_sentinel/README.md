@@ -15,7 +15,7 @@ Ops Sentinel is a Temporal-first runtime operations assistant for containerized 
 - `runtime_gateway.py` - Docker runtime adapter and domain models
 - `workflow_runtime.py` - Temporal activities and workflow logic
 - `console.py` - Interactive console + worker launcher
-- `doctor.py` - Validation diAgent Frameworkstics for local setup
+- `doctor.py` - Validation diAgnostics for local setup
 - `test_ops_sentinel.py` - Quick structural tests
 - `stack.compose.yml` - Sample local stack for demos
 
@@ -64,7 +64,7 @@ Use environment variables from the project root `.env.Integration`:
 
 ## Validation
 
-Run validation diAgent Frameworkstics:
+Run validation diAgnostics:
 
 ```bash
 python doctor.py

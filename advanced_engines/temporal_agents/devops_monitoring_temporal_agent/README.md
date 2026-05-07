@@ -23,7 +23,7 @@ devops_monitoring_temporal_agent/
 ## Core Features
 
 - Service inventory and state inspection
-- Health diAgent Frameworkstics (probe status + resource thresholds)
+- Health diAgnostics (probe status + resource thresholds)
 - Log retrieval for targeted services
 - Recovery actions via service recycle (restart)
 - Workflow-level retries, execution history, and fault tolerance

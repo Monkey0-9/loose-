@@ -8,7 +8,7 @@ Fully standalone notebook for demonstrating the complete customer-support distil
 
 ## Open In Colab
 
-- [Launch notebook](https://colab.research.google.com/github/looseai-project/looseai/blob/main/fine_tuning/customer_support_standalone_colab/customer_support_standalone_colab_Integration.ipynb)
+- [Launch notebook](https://colab.research.google.com/github/Monkey0-9/looseai/blob/main/fine_tuning/customer_support_standalone_colab/customer_support_standalone_colab_Integration.ipynb)
 
 ## Workflow
 

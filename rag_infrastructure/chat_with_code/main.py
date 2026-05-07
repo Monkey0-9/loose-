@@ -90,7 +90,7 @@ def main():
     with col1:
         st.title("🤖 Chat with Code ")
     with col3:
-        st.link_button("⭐ Star Repo", "https://github.com/looseai-project/Loose-cookbook")
+        st.link_button("⭐ Star Repo", "https://github.com/Monkey0-9/Loose-cookbook")
     with col4:
         if st.button("🗑️ Clear Chat"):
             st.session_state.messages = []

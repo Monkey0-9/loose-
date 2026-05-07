@@ -27,7 +27,7 @@ This project demonstrates a powerful AI agent interface built with Agent Framewo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd simple_ai_agent/Agent Framework_ui_agent
 ```
 

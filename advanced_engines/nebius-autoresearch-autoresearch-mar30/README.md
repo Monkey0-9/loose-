@@ -63,10 +63,10 @@ advance_ai_agents/Loose-autoresearch-autoresearch-mar30/
 
 ### 1. Clone and install
 
-From the [looseai](https://github.com/looseai-project/looseai) repo root (or your fork):
+From the [looseai](https://github.com/Monkey0-9/loose-) repo root (or your fork):
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd looseai/advance_ai_agents/Loose-autoresearch-autoresearch-mar30
 pip install -r requirements.txt
 ```

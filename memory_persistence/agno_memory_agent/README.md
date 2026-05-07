@@ -22,7 +22,7 @@ A demonstration of AI agents with persistent memory capabilities using the Agent
 1. Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd simple_ai_agents/memory_agent
 ```
 

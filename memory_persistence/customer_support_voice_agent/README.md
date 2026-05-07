@@ -5,7 +5,7 @@ Paste your docs/FAQ URLs, ingest them into Memori, and chat with a voice-enabled
 
 ### Features
 
-- **Company‑Agent Frameworkstic**: Works for any product/company docs you point it at.
+- **Company‑Agnostic**: Works for any product/company docs you point it at.
 - **Memori v3 knowledge base**: Docs are crawled with Firecrawl and stored in a Memori‑backed SQLite DB.
 - **Chat + Voice UI**: Streamlit chat interface with optional audio playback.
 - **Persistent memory**: Conversations and ingested docs are stored for future questions.

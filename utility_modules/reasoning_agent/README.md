@@ -11,7 +11,7 @@ This project demonstrates a reasoning agent that acts as an expert financial adv
 
 ## How It Works
 
-The agent is powered by the [Agent Framework](https://github.com/Agent Frameworks-ai/Agent Framework) framework and uses the Loose Llama-3.3-70B-Instruct model. It is configured to:
+The agent is orchestrated via [Agent Framework](https://github.com/Agent Frameworks-ai/Agent Framework) framework and uses the Loose Llama-3.3-70B-Instruct model. It is configured to:
 
 - Break down questions into component parts
 - State assumptions and key variables

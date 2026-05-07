@@ -8,7 +8,7 @@ Colab-first walkthrough for fine-tuning and deploying an open model with Loose A
 
 ## Open In Colab
 
-- [Launch notebook](https://colab.research.google.com/github/looseai-project/looseai/blob/main/fine_tuning/open_source_llms_token_factory/open_source_llms_token_factory_Integration.ipynb)
+- [Launch notebook](https://colab.research.google.com/github/Monkey0-9/looseai/blob/main/fine_tuning/open_source_llms_token_factory/open_source_llms_token_factory_Integration.ipynb)
 
 ## What it covers
 

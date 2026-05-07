@@ -29,7 +29,7 @@ A powerful AI-powered competitive intelligence tool that analyzes competitor pro
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/looseai-project/looseai.git
+git clone https://github.com/Monkey0-9/loose-.git
 cd memory_agents/product_launch_agent
 ```
 

@@ -39,7 +39,7 @@ A powerful Streamlit-based chat interface for interacting with Loose AI Engine's
 1. **Clone the repository**
 
    ```bash
-   git clone git clone https://github.com/looseai-project/looseai.git
+   git clone git clone https://github.com/Monkey0-9/loose-.git
    cd simple_ai_agents/Loose-chat
    ```
 

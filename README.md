@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loose AI - The AI Module Ecosystem
 
 **Version:** 2.0.0-PROD | **Standard:** Open Source
@@ -64,3 +65,6 @@ python cli/loose_cli.py polyglot go-audit
 
 > [!IMPORTANT]
 > Loose AI is a self-developed, custom platform. Every module, engine, and integration has been audited for industrial consistency and visual excellence.
+=======
+# loose-
+>>>>>>> c8f2c5d12fce6b04df39a2acedee39c09def0e2b

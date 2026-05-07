@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+llama-index-llms-Loose
+llama-index-embeddings-Loose
+llama-index-readers-github 
+llama-index
+nest_asyncio

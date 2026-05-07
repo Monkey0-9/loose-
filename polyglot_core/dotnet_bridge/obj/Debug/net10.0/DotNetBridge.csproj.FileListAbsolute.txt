@@ -1,0 +1,14 @@
+C:\loose\polyglot_core\dotnet_bridge\bin\Debug\net10.0\DotNetBridge.exe
+C:\loose\polyglot_core\dotnet_bridge\bin\Debug\net10.0\DotNetBridge.deps.json
+C:\loose\polyglot_core\dotnet_bridge\bin\Debug\net10.0\DotNetBridge.runtimeconfig.json
+C:\loose\polyglot_core\dotnet_bridge\bin\Debug\net10.0\DotNetBridge.dll
+C:\loose\polyglot_core\dotnet_bridge\bin\Debug\net10.0\DotNetBridge.pdb
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.AssemblyInfoInputs.cache
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.AssemblyInfo.cs
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.csproj.CoreCompileInputs.cache
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.dll
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\refint\DotNetBridge.dll
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.pdb
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\DotNetBridge.genruntimeconfig.cache
+C:\loose\polyglot_core\dotnet_bridge\obj\Debug\net10.0\ref\DotNetBridge.dll

@@ -1,0 +1,24 @@
+[project]
+name = "deep-researcher-agent"
+version = "0.1.0"
+description = "A multi-stage research workflow agent powered by Agno and Scrapegraph"
+authors = [
+    {name = "Loose AI", email = "hello@loose-ai.dev"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "agno",
+    "openai",
+    "scrapegraph-py",
+    "python-dotenv",
+    "mcp",
+    "streamlit",
+    "pydantic",
+]
+
+[project.urls]
+Homepage = "https://github.com/loose-ai-project/loose-ai"
+Repository = "https://github.com/loose-ai-project/loose-ai"
+Issues = "https://github.com/loose-ai-project/loose-ai/issues"
+

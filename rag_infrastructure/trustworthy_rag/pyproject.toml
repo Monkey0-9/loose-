@@ -1,0 +1,16 @@
+[project]
+name = "trustworthy-rag"
+version = "0.1.0"
+description = "Citation verification and hallucination scoring layer on top of RAG, powered by Loose AI Engine"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit",
+    "llama-index",
+    "llama-index-llms-Loose",
+    "llama-index-embeddings-Loose",
+    "openai",
+    "python-dotenv",
+    "PyPDF2",
+    "pydantic",
+]

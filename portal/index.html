@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loose AI | Comprehensive Command Center</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="glass-container">
+        <header>
+            <div class="logo">LOOSE AI <span class="v2">v2.0</span></div>
+            <nav>
+                <span class="status-indicator">SYSTEM: OPTIMAL</span>
+            </nav>
+        </header>
+
+        <main>
+            <section class="hero">
+                <h1>Autonomous <span class="gradient-text">Polyglot</span> Orchestration</h1>
+                <p>A developer platform for multi-agent ecosystems across 8+ languages.</p>
+            </section>
+
+            <div class="stats-grid" id="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-modules">99</span>
+                    <span class="stat-label">Agents Verified</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">8</span>
+                    <span class="stat-label">Runtimes</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-health">100%</span>
+                    <span class="stat-label">Health Score</span>
+                </div>
+            </div>
+
+            <div class="language-pillbox">
+                <span class="pill python">Python</span>
+                <span class="pill go">Go</span>
+                <span class="pill rust">Rust</span>
+                <span class="pill ts">TypeScript</span>
+                <span class="pill cpp">C++</span>
+                <span class="pill zig">Zig</span>
+                <span class="pill java">Java</span>
+                <span class="pill dotnet">.NET</span>
+            </div>
+        </main>
+
+        <footer>
+            <div class="footer-info">LOOSE AI PLATFORM</div>
+        </footer>
+    </div>
+    <script>
+        // Fetch dynamic stats if available
+        fetch('/api/health')
+            .then(res => res.json())
+            .then(data => {
+                if (data.total_modules) {
+                    document.getElementById('stat-modules').innerText = data.total_modules;
+                }
+                if (data.overall_health !== undefined) {
+                    document.getElementById('stat-health').innerText = data.overall_health.toFixed(0) + '%';
+                }
+            })
+            .catch(err => console.log('Running in static mode', err));
+    </script>
+</body>
+</html>

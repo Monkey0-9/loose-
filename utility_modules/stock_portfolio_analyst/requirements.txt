@@ -1,0 +1,6 @@
+Agent Framework
+openai
+streamlit
+python-dotenv
+yfinance
+duckduckgo-search

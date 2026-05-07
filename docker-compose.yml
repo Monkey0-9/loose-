@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  portal:
+    build: .
+    image: looseai-portal:latest
+    container_name: loose_ai_portal
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - LOOSE_API_KEY=${LOOSE_API_KEY:-mock_key_comprehensive}
+      - USE_MOCK=1
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+
+  agent-sandbox:
+    build: .
+    container_name: loose_ai_sandbox
+    volumes:
+      - .:/app
+    environment:
+      - USE_MOCK=1
+    command: tail -f /dev/null # Keeps container alive for manual exec
+    working_dir: /app
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: loose_ai_vector_db
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:
+    driver: local

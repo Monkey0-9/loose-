@@ -1,0 +1,502 @@
+{
+  "timestamp": "2026-05-06T19:49:58+05:30",
+  "total_agents": 99,
+  "categories": {},
+  "agents": [
+    {
+      "name": "Agent Framework_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "autogen_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "aws_strands_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "cagent_starter",
+      "category": "starter_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "camel_ai_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "crewai_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "dspy_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "google_adk_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "kaos_starter",
+      "category": "starter_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "langchain_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "langgraph_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "letta_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "llamaindex_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "mastra_starter",
+      "category": "starter_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "openai_agents_sdk",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "pydantic_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "sayna_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "semantic_kernel_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "smolagents_starter",
+      "category": "starter_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agent_discovery_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "Agent Framework_ai_examples",
+      "category": "simple_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "Agent Framework_ui_agent",
+      "category": "simple_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "browser_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "cal_scheduling_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "email_to_calendar_scheduler",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "finance_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "human_in_the_loop_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "llm_router",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "mastra_ai_weather_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "nebius_chat",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "newsletter_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "reasoning_agent",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "stock_portfolio_analyst",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "talk_to_db",
+      "category": "simple_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "couchbase_mcp_server",
+      "category": "mcp_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "custom_mcp_server",
+      "category": "mcp_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "database_mcp_agent",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "nvidia_ocr",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "llamaIndex_starter",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "blog_writing_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "content_team_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "brand_reputation_monitor",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "doc_mcp",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "context_engineering_pipeline",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "docs_qna_agent",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "customer_support_voice_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "conference_talk_abstract_generator",
+      "category": "advance_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "e2b_docker_mcp_agent",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "deep_researcher_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "gossip_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "github_mcp_agent",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "due_diligence_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "hotel_finder_agent",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "job_search_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "pdf_chat",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "finance_service_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "product_launch_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "job_finder_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "pdf_rag_analyser",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "langchain_langgraph_mcp_agent",
+      "category": "mcp_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "loose_discovery_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "qwen3_rag",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "mcp_starter",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "social_media_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "meeting_assistant_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "resume_optimizer",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "scalekit-exa-mcp-security",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "study_coach_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "taskade_mcp_agent",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "telemetry-mcp-okahu",
+      "category": "mcp_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "youtube_trend_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "simple_rag",
+      "category": "rag_apps",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "Agent Framework_memory_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "nebius-autoresearch-autoresearch-mar30",
+      "category": "advance_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "trustworthy_rag",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "ai_consultant_agent",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "video_rag",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "paralegal_crew",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "advanced_rag_with_reranking",
+      "category": "rag_apps",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "wfgy_llm_debugger",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "arxiv_researcher_agent_with_memori",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agentic_rag",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "price_monitoring_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "aws_strands_agent_with_memori",
+      "category": "memory_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agentic_rag_with_web_search",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "contextual_ai_rag",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "agentfield_finance_research_agent",
+      "category": "advance_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "smart_gtm_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "gemma_ocr",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "chat_with_code",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "startup_idea_validator_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "graphrag_neo4j",
+      "category": "rag_apps",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "ai-hedgefund",
+      "category": "advance_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "trend_analyzer_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "car_finder_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "temporal_agents",
+      "category": "advance_ai_agents",
+      "status": "ERROR: Missing Entry Point"
+    },
+    {
+      "name": "coding_harness_agent",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "candidate_analyser",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    },
+    {
+      "name": "conference_Agent Frameworksitc_cfp_generator",
+      "category": "advance_ai_agents",
+      "status": "HEALTHY"
+    }
+  ]
+}

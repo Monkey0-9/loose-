@@ -1,0 +1,4 @@
+python-dotenv
+llama-index-llms-Loose
+llama-index
+llama-index-core

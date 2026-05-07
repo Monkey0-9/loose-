@@ -1,0 +1,7 @@
+streamlit
+llama-index
+llama-index-llms-Loose
+llama-index-embeddings-Loose
+python-dotenv
+PyPDF2
+pydantic
